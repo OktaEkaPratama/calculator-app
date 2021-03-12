@@ -1,0 +1,13 @@
+E:\tugas\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.exe
+E:\tugas\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.deps.json
+E:\tugas\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.json
+E:\tugas\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.dev.json
+E:\tugas\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+E:\tugas\kalkulator\kalkulator\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+E:\tugas\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csprojAssemblyReference.cache
+E:\tugas\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfoInputs.cache
+E:\tugas\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfo.cs
+E:\tugas\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+E:\tugas\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+E:\tugas\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+E:\tugas\kalkulator\kalkulator\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.genruntimeconfig.cache
